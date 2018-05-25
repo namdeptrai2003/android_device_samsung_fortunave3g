@@ -1,2 +1,2 @@
-add_lunch_combo aosp_fortunave3g-userdebug
+add_lunch_combo bootleg_fortunave3g-userdebug
 
