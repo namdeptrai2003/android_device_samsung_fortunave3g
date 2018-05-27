@@ -6,6 +6,9 @@ LOCAL_PATH := device/samsung/fortunave3g
 # Asserts
 TARGET_OTA_ASSERT_DEVICE := fortunave3g,SM-G530H,samsung_sm_g530h,samsung_sm_g530h
 
+# LEGACY MMAP
+BOARD_USES_LEGACY_MMAP := true
+
 # Kernel
 TARGET_KERNEL_VARIANT_CONFIG := msm8916_sec_fortunave3g_eur_defconfig
 
